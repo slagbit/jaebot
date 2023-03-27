@@ -1,0 +1,25 @@
+{
+  "name": "jaebot",
+  "version": "1.0.0",
+  "description": "Smash bot initial try",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slagbit/jaebot.git"
+  },
+  "author": "Slag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slagbit/jaebot/issues"
+  },
+  "homepage": "https://github.com/slagbit/jaebot#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
